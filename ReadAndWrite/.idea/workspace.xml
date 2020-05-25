@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="504490b6-89ff-415e-b022-a16d3b49cbbf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../PacmanOfficial/src/main/java/org/pacman/Ghost.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PacmanOfficial/src/main/java/org/pacman/Ghost.java" afterDir="false" />
-    </list>
+    <list default="true" id="504490b6-89ff-415e-b022-a16d3b49cbbf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16113281" />
     <property name="project.structure.side.proportion" value="0.11668611" />
@@ -106,6 +105,7 @@
       <workItem from="1590254721995" duration="10000" />
       <workItem from="1590354939656" duration="6015000" />
       <workItem from="1590374190359" duration="39000" />
+      <workItem from="1590441919663" duration="21000" />
     </task>
     <servers />
   </component>
