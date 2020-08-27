@@ -10,8 +10,6 @@ public class MusicPlayer {
 
     private boolean play = true;
     private Clip clip;
-    private String song;
-    private URL file;
 
     public MusicPlayer(){
 
@@ -40,8 +38,8 @@ public class MusicPlayer {
 
     public synchronized void resume(){
         System.out.println(Thread.currentThread() + ": I still have control, and I am now notifying the player to resume playing");
-        notify();
         play = true;
+        notify();
     }
 
     public synchronized void setSong(String name){
